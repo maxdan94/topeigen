@@ -2,7 +2,7 @@
 
 ## Info
 
-To compute the top eignenvalues and associated eigenvectors of a large sparse matrix
+To compute (an approximation of) the top eignenvalues and associated eigenvectors of a large sparse matrix using the pwer iteration method: https://en.wikipedia.org/wiki/Power_iteration
 
 
 ## To compile
